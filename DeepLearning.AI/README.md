@@ -11,12 +11,19 @@ interface with LLMs and other tools.
 <br>
 [DeepLearning.AI](https://www.deeplearning.ai/) in partnership with [OpenAI](https://openai.com/) created a short course on  
 how to leverage best practices of prompt engineering to use a large  
-langauge model (LLM) in a better way.   
+language model (LLM) in a better way.   
 <br>
 You can access the course [here](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/).  
 <br>
 The course is taught by [Isa Fulford](https://www.linkedin.com/in/isabella-fulford/) (Member of Technical Staff, OpenAI)  
 and [Andrew Ng](https://www.linkedin.com/in/andrewyng/) (Founder, DeepLearning.AI; Co-founder, Coursera)
+<br>
+This repository contains all the resources that were used during the  
+course including:
+1. Jupyter notebooks
+2. Prompt samples used during lectures
+3. Transcripts of lectures, and
+4. Images capturing important concepts
 
 ## Repository Structure
 The repository is organized in the following structure:  
@@ -43,12 +50,12 @@ jupyter notebooks, so these might help you if you want to download
 them and run on your own machine.  
 <br>  
 The `prompts/` directory contains all the prompt samples used during  
-all the lecture videos. This might facilitate the prompt search in case  
+all the lecture videos. These might facilitate the prompt search in case  
 you are looking for one that was taught in the lecture. It also puts  
 all the prompt samples at one place that helps it easier to compare  
 them and find the one that best suits our needs.  
 <br>
-The `transctipts/` directory contains transcript of all the lecture  
+The `transcripts/` directory contains transcript of all the lecture  
 videos. It might be helpful if you do not want to watch the entire  
 videos or looking for something the instructors said during the lecture.  
 
@@ -94,5 +101,7 @@ Makes statements that sound plausible but are not true.
 First find relevant information, then answer the question based on the  
 relevant information.
   
+
+![](images/Iterative%20Prompt%20Development.png)
 <br>  
 Happy Prompting!
