@@ -26,6 +26,9 @@ images/
     
 notebooks/
     *.ipynb
+
+prompts/
+    *.md
     
 transcripts/
     *.txt
@@ -38,6 +41,12 @@ The `notebooks/` directory contains all the jupyter notebooks used
 during all the lecture videos. The platform does not provide the  
 jupyter notebooks, so these might help you if you want to download   
 them and run on your own machine.  
+<br>  
+The `prompts/` directory contains all the prompt samples used during  
+all the lecture videos. This might facilitate the prompt search in case  
+you are looking for one that was taught in the lecture. It also puts  
+all the prompt samples at one place that helps it easier to compare  
+them and find the one that best suits our needs.  
 <br>
 The `transctipts/` directory contains transcript of all the lecture  
 videos. It might be helpful if you do not want to watch the entire  
