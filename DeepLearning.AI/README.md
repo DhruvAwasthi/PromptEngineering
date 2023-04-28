@@ -34,10 +34,10 @@ The `images/` directory contains important images captured from the
 lecture videos. This helps capture the important points made during  
 the lectures such as iterative prompt development cycle.  
 <br>
-The `notebooks/` directory contains all the notebooks used during all   
-the lecture videos. The platform does not provide the notebooks, so  
-these might help you if you want to download the notebooks and run them  
-on your own machine.  
+The `notebooks/` directory contains all the jupyter notebooks used  
+during all the lecture videos. The platform does not provide the  
+jupyter notebooks, so these might help you if you want to download   
+them and run on your own machine.  
 <br>
 The `transctipts/` directory contains transcript of all the lecture  
 videos. It might be helpful if you do not want to watch the entire  
