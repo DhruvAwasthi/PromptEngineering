@@ -14,5 +14,9 @@ related to prompt engineering at one place to facilitate the fast and
 efficient learning. This way, one need not waste time finding the  
 resources online and can just choose from this repository.
 
-<br>  
+### Resources available:
+- [DAIR.AI - Prompt Engineering Guides](DAIR.AI)
+- [DeepLearning.AI - Short Course on ChatGPT Prompt for Developers](DeepLearning.AI)  
+
+Connect with the author [here](https://www.dhruvawasthi.com/).  
 Happy Prompting!
